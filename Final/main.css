@@ -1,3 +1,21 @@
 body{
 	background: black
 }
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>RMG</h1>
+<p>This is a label that works with upcoming artist trying to make it into the music industry. Following artist working in this group is T Rose, Hazee300</p>
+
+</body>
+</html>
